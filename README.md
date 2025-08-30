@@ -24,7 +24,7 @@ Jednoduchý **To-Do List** vytvořený pomocí jQuery s uložením do `localStor
 ---
 
 ## Online projekt
-Projekt je k dispozici online zde: [To-Do List](https://github.com/JanTrejtnar/jq-to-do-list)
+Projekt je k dispozici online zde: [To-Do List](https://jantrejtnar.github.io/jq-to-do-list/)
 
 ---
 
